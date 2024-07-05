@@ -17,7 +17,7 @@
 <summary>서버에 접속되지 않거나 렉이 심함</summary>
 
 * 디도스를 맞고 있는 것일 수 있다. 디도스의 경우 해결이 어렵기에 잠시 접속할 수 없고 다른 문제요소가 있다면 확인 후 디스코드 공지 채널에 메시지가 발행된다.
-* [#connection-requirements](feature.md#connection-requirements "mention")을 충족하지 않는 것일 수 있다. VAC 차단의 경우 어떤 식으로든 서버에 접속이 불가능하다.
+* [#connection-requirements](feature.md#connection-requirements "mention")을 충족하지 않는 것일 수 있다. VAC 차단의 경우 어떤 식으로든 서버에 접속이 불가능하다. [#undefined-6](faq.md#undefined-6 "mention")를 참고하여 해결방안을 시도해볼 수 있다.
 
 </details>
 
@@ -43,7 +43,7 @@
 
 <summary>스크랩 차를 마셨는데 배율이 적용되지 않음</summary>
 
-기술적인 한계로 인해 차(Tea)에 대한 배율 지원은 하지 않는다.
+기술적인 한계로 인해 차(Tea)에 대한 배율은 기본 배율로 작동한다.
 
 </details>
 
@@ -72,6 +72,14 @@
 ![](<.gitbook/assets/안내 (1).png>)![](.gitbook/assets/안내2.png)
 
 스팀에서 내 프로필에 접근한다. 그리고 차단 기록 보기 버튼을 통해 밴 기록 화면에 접근한다. 그러면 어떤 게임에서 차단을 받았는지 확인되는데, 이때 이 스팀 화면을 전체 캡처하여 관리자에게 전송하면 확인되는대로 화이트리스트에 등록된다.
+
+</details>
+
+<details>
+
+<summary>일부 상점 누락됨</summary>
+
+각 맵마다 제공되는 상점이 상이하기 때문에 해당 주기의 맵에서는 일부 상점이 제공되지 않을 수 있다.
 
 </details>
 
@@ -113,6 +121,14 @@
 
 <img src="https://i.imgur.com/UEX0ZPi.png" alt="" data-size="original">\
 결제시 발송 된 이메일에 있는 버튼을 눌러 언제든지 요금 청구를 취소할 수 있다.
+
+</details>
+
+<details>
+
+<summary>/clan join 명령이 작동하지 않음</summary>
+
+본래 각 플레이어끼리 고유한 칭호를 사용해야 하는데, 팀 일때 라던지 같은 칭호를 사용하고 싶을 때 사용할 수 없는 불편함이 있다. 이러한 불편함을 해결할 수 있도록 제공되는 기능이므로 초대를 받는 사람도 서포터여야만 초대를 받을 수 있다.
 
 </details>
 
