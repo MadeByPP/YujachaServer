@@ -1,4 +1,7 @@
 # 유자차서버
+[![release](https://img.shields.io/github/release/MadeByPP/yujachaserver/all.svg)](https://github.com/MadeByPP/yujachaserver/releases)
+[![license](https://img.shields.io/badge/%EB%9D%BC%EC%9D%B4%EC%84%A0%EC%8A%A4-MIT%20License%202.0-blueviolet)](https://github.com/MadeByPP/yujachaserver?tab=MIT-1-ov-file#readme)
+
 러스트 유자차서버에 대한 리포지토리 입니다.
 
 ## 여기에서는 무엇을 할 수 있나요?
