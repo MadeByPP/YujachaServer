@@ -5,7 +5,7 @@
 # 유자차서버
 [![release](https://img.shields.io/github/release/MadeByPP/yujachaserver/all.svg)](https://github.com/MadeByPP/yujachaserver/releases)
 [![license](https://img.shields.io/badge/license-MIT%20License%202.0-blueviolet)](https://github.com/MadeByPP/yujachaserver?tab=MIT-1-ov-file#readme)
-[![discord](https://img.shields.io/badge/Discord-5865F2?logo=Discord&logoColor=white)](discord.gg/gQRXVp6z8Y)
+[![discord](https://img.shields.io/badge/Discord-5865F2?logo=Discord&logoColor=white)](https://discord.gg/gQRXVp6z8Y)
 [![wiki](https://cl.gy/QSKnd)](https://github.com/MadeByPP/YujachaServer/wiki)
 
 
