@@ -6,6 +6,7 @@
 # 유자차서버
 [![release](https://img.shields.io/github/release/MadeByPP/yujachaserver/all.svg)](https://github.com/MadeByPP/yujachaserver/releases)
 [![license](https://img.shields.io/badge/license-MIT%20License%202.0-blueviolet)](https://github.com/MadeByPP/yujachaserver?tab=MIT-1-ov-file#readme)
+[![discord](https://img.shields.io/badge/DISCORD-5865F2?logo=Discord&logoColor=white)](https://github.com/MadeByPP/yujachaserver?tab=MIT-1-ov-file#readme)
 
 러스트 유자차서버에 대한 리포지토리 입니다.
 ## 왜 Github로 이전했나요?
