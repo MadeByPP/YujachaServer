@@ -4,7 +4,7 @@
 > * [작업](https://everee.notion.site/85edcce4d44c45fbba28e93883bff801)(Github와 마이그레이션 작업 중)
 # 유자차서버
 [![release](https://img.shields.io/github/release/MadeByPP/yujachaserver/all.svg)](https://github.com/MadeByPP/yujachaserver/releases)
-[![license](https://img.shields.io/badge/license-MIT%20License%202.0-blueviolet)](https://github.com/MadeByPP/yujachaserver?tab=MIT-1-ov-file#readme)
+[![license](https://img.shields.io/badge/license-MIT%20License%202.0-blueviolet)](https://github.com/MadeByPP/YujachaServer/blob/main/LICENSE)
 [![discord](https://img.shields.io/badge/Discord-5865F2?logo=Discord&logoColor=white)](https://discord.gg/gQRXVp6z8Y)
 [![wiki](https://cl.gy/QSKnd)](https://github.com/MadeByPP/YujachaServer/wiki)
 
