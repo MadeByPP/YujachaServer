@@ -11,3 +11,4 @@
 
 러스트 유자차서버에 대한 리포지토리 입니다.
 ## 왜 Github로 이전했나요?
+![image](https://github.com/user-attachments/assets/c5556e19-ccf3-494c-8d45-316ab5d5012a)
