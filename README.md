@@ -6,7 +6,7 @@
 [![release](https://img.shields.io/github/release/MadeByPP/yujachaserver/all.svg)](https://github.com/MadeByPP/yujachaserver/releases)
 [![license](https://img.shields.io/badge/license-MIT%20License%202.0-blueviolet)](https://github.com/MadeByPP/YujachaServer/blob/main/LICENSE)
 [![discord](https://img.shields.io/badge/discord-참여하기-5865F2?logo=Discord&logoColor=white)](https://discord.gg/gQRXVp6z8Y)
-[![wiki](https://cl.gy/IYyEM)](https://github.com/MadeByPP/YujachaServer/wiki)
+[![wiki](https://cl.gy/EWBav)](https://github.com/MadeByPP/YujachaServer/wiki)
 
 
 러스트 유자차서버에 대한 리포지토리 입니다.
