@@ -19,10 +19,10 @@
 ![image](https://github.com/user-attachments/assets/ddaedf0d-fd47-4304-be58-0e2bc552ca2d)  
 이후 : 한글 URL을 지원하는것 뿐만 아니라 깔끔한 URL 완성이 가능
 ## 작업 측면
-### 태그
+### 태그 개수
 ![image](https://github.com/user-attachments/assets/c5556e19-ccf3-494c-8d45-316ab5d5012a)
 ![image](https://github.com/user-attachments/assets/a026395f-17e1-40ad-a492-5c0142440ee0)  
 이전 : 태그는 최대 20개 및 20자 이하로만 사용 가능
 
-![image](https://github.com/user-attachments/assets/c1ea0d4f-9c15-4bc5-b5af-5f5caea19d1c)
+![image](https://github.com/user-attachments/assets/c1ea0d4f-9c15-4bc5-b5af-5f5caea19d1c)  
 이후 : 태그는 최대 99개 및 50자 이하로만 사용 가능
