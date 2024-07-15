@@ -10,6 +10,19 @@
 
 
 러스트 유자차서버에 대한 리포지토리 입니다.
-## 왜 Github로 이전했나요?
+# 왜 Github로 이전했나요?
+## 문서 측면
+### URL 주소
+![image](https://github.com/user-attachments/assets/020abacd-2adf-43bf-9d44-f058f51ba287)  
+이전 : 사용상 문제는 없으나 한글 URL 미지원으로 URL 주소의 의도를 한 번에 알아차리기 힘듦
+
+![image](https://github.com/user-attachments/assets/ddaedf0d-fd47-4304-be58-0e2bc552ca2d)  
+이후 : 한글 URL을 지원하는것 뿐만 아니라 깔끔한 URL 완성이 가능
+## 작업 측면
+### 태그
 ![image](https://github.com/user-attachments/assets/c5556e19-ccf3-494c-8d45-316ab5d5012a)
-![image](https://github.com/user-attachments/assets/a026395f-17e1-40ad-a492-5c0142440ee0)
+![image](https://github.com/user-attachments/assets/a026395f-17e1-40ad-a492-5c0142440ee0)  
+이전 : 태그는 최대 20개 및 20자 이하로만 사용 가능
+
+![image](https://github.com/user-attachments/assets/c1ea0d4f-9c15-4bc5-b5af-5f5caea19d1c)
+이후 : 태그는 최대 99개 및 50자 이하로만 사용 가능
