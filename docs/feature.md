@@ -11,7 +11,7 @@ description: 공식 서버와 다른 점. 또는 유자차 서버만의 특징. 
 접속국가[^1]를 제외하고 공식 서버와 동일한 [접속 요구사항](#user-content-fn-2)[^2]을 채택하고 있다.
 
 {% hint style="info" %}
-러스트 [게임밴](https://namu.wiki/w/EasyAntiCheat#s-2)이 아닌 타사 게임밴의 경우 [#undefined-6](faq.md#undefined-6 "mention")따르면 접속이 가능하다. 그러나 [VAC밴](https://namu.wiki/w/%EB%B0%B8%EB%B8%8C%20%EC%95%88%ED%8B%B0%20%EC%B9%98%ED%8A%B8)의 경우 얄짤없이 접속이 불가능하니 주의해야 한다.
+러스트 [게임밴](https://namu.wiki/w/EasyAntiCheat#s-2)[VAC밴](https://namu.wiki/w/%EB%B0%B8%EB%B8%8C%20%EC%95%88%ED%8B%B0%20%EC%B9%98%ED%8A%B8)의 경우 얄짤없이 접속이 불가능하니 주의해야 한다.
 {% endhint %}
 
 ## 배율/배속 <a href="#scale-speed" id="scale-speed"></a>
@@ -21,7 +21,7 @@ description: 공식 서버와 다른 점. 또는 유자차 서버만의 특징. 
 [스택 사이즈](#user-content-fn-3)[^3] 1000배율, 자원 30배율, 컨베이어 30배율, 용광로 30배율, 스크랩 10배율, 컴포 5배율, 전기생산 2배율, 건물체력 2배율, 밤 3배속, 보급낙하속도 2배속, 믹싱 테이블 2배속으로 설정되어 있다.
 
 {% hint style="warning" %}
-채석장은 배율에서 제외되고 유황은 자원배율과 별도로 10배이다.
+채석장과 무기류는 배율에서 제외되고 유황은 자원배율과 별도로 10배이다.
 {% endhint %}
 
 ## 맵 <a href="#map" id="map"></a>
@@ -66,7 +66,7 @@ description: 공식 서버와 다른 점. 또는 유자차 서버만의 특징. 
 
 ***
 
-수중 건설.  수중 건설로 맵 밖에 아이템을 은닉하고 있다는 소식을 보고받아 정지되었다.
+수중 건설.  수중 건설로 맵 밖에 아이템을 은닉할 수 있어 금지되었다.
 
 ## 이동수단 부식 <a href="#vehicle-decay" id="vehicle-decay"></a>
 
@@ -88,7 +88,7 @@ description: 공식 서버와 다른 점. 또는 유자차 서버만의 특징. 
 
 ***
 
-깡통을 깨고 아이템을 일일히 수집하지 않아도, 가까이 있다면 자동으로 수집해준다. ~~E키 수명연장 성공!~~
+깡통을 깨고 아이템을 일일히 수집하지 않아도, 가까이 있다면 자동으로 수집해준다.
 
 ## 건물 작업대 <a href="#building-workbench" id="building-workbench"></a>
 
@@ -112,7 +112,7 @@ description: 공식 서버와 다른 점. 또는 유자차 서버만의 특징. 
 
 ***
 
-용광로 안에 있는 아이템을 자동으로 분리해주고 광물이 다 구워지려면 나무가 얼마나 필요한지 계산해 자동으로 연료를 넣어준다. ~~그리 정확하진 않지만 쓸만하다.~~ 러스트 [용광로 UI 업데이트](https://rust.facepunch.com/news/the-lumberjack) 이후 쓸모 없다고 생각할 수도 있겠지만 자동 연료 계산기능 때문에 사용하고 있다.
+용광로 안에 있는 아이템을 자동으로 분리해주고 광물이 다 구워지려면 나무가 얼마나 필요한지 계산해 자동으로 연료를 넣어준다. 러스트 [용광로 UI 업데이트](https://rust.facepunch.com/news/the-lumberjack) 이후 쓸모 없다고 생각할 수도 있겠지만 자동 연료 계산기능 때문에 사용하고 있다.
 
 ## 칭호 <a href="#style" id="style"></a>
 
