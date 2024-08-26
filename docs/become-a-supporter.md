@@ -1,7 +1,7 @@
 # 서포터 되기
 
 {% hint style="info" %}
-서포터 명령 및 혜택에 관한 것은 [Broken link](broken-reference "mention")를 참고하십시오.
+서포터 명령 및 혜택에 관한 것은 Tebex[^1]를 참고하십시오.
 {% endhint %}
 
 {% hint style="info" %}
@@ -14,7 +14,7 @@
 
 ### Tebex
 
-[Broken link](broken-reference "mention")에서 서포트가 가능하며 혜택이 5분 이내에 자동으로 지급된다. 우리는 가능한 한 서포트 방식별 지원속도에 차이를 두지 않고 있다. Tebex의 경우 모든 정보가 관리자에게 직접적으로 제공되기 때문에 가장 빠른 지원속도를 기대할 수 있다. 자동 갱신 지원.
+Tebex[^2]에서 서포트가 가능하며 혜택이 5분 이내에 자동으로 지급된다. 우리는 가능한 한 서포트 방식별 지원속도에 차이를 두지 않고 있다. Tebex의 경우 모든 정보가 관리자에게 직접적으로 제공되기 때문에 가장 빠른 지원속도를 기대할 수 있다. 자동 갱신 지원.
 
 ### Discord
 
@@ -44,3 +44,7 @@
 <figure><img src="https://i.imgur.com/UEX0ZPi.png" alt=""><figcaption><p>이메일에 포함된 버튼</p></figcaption></figure>
 
 </div>
+
+[^1]: [외부 링크](https://yujachaserversupport.tebex.io/)
+
+[^2]: [외부 링크](https://yujachaserversupport.tebex.io/)
