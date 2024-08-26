@@ -8,6 +8,10 @@
 
 ***
 
+## /remove
+
+자신 또는 팀이 건축한 건축물을 제거합니다.
+
 러스트 특성 상 맵이 너무 큰 나머지 초반에 팀을 만나는데 한참 걸릴 수 있다. 텔레포트는 원하는 유저에게 즉시 이동할 수 있는 기능을 제공한다.
 
 <table data-full-width="false"><thead><tr><th width="157">명령</th><th>설명</th></tr></thead><tbody><tr><td><code>/tp</code></td><td>&#x3C;>에게 텔레포트 요청</td></tr><tr><td><code>/tpa</code></td><td>텔레포트 요청 수락(팀이면 자동 수락)</td></tr><tr><td><code>/tpc</code></td><td>현재 진행중인 홈/텔레포트 또는 받은 요청을 즉시 취소</td></tr></tbody></table>
