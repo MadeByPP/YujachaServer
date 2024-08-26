@@ -1,7 +1,7 @@
 # 서포터 되기
 
 {% hint style="info" %}
-서포터 명령 및 혜택에 관한 것은 [Tebex](https://yujachaserversupport.tebex.io/)를 참고하십시오.
+서포터 명령 및 혜택에 관한 것은 [Broken link](broken-reference "mention")를 참고하십시오.
 {% endhint %}
 
 {% hint style="info" %}
@@ -14,7 +14,7 @@
 
 ### Tebex
 
-[Tebex](https://yujachaserversupport.tebex.io/)에서 서포트가 가능하며 혜택이 5분 이내에 자동으로 지급된다. 우리는 가능한 한 서포트 방식별 지원속도에 차이를 두지 않고 있다. Tebex의 경우 모든 정보가 관리자에게 직접적으로 제공되기 때문에 가장 빠른 지원속도를 기대할 수 있다. 자동 갱신 지원.
+[Broken link](broken-reference "mention")에서 서포트가 가능하며 혜택이 5분 이내에 자동으로 지급된다. 우리는 가능한 한 서포트 방식별 지원속도에 차이를 두지 않고 있다. Tebex의 경우 모든 정보가 관리자에게 직접적으로 제공되기 때문에 가장 빠른 지원속도를 기대할 수 있다. 자동 갱신 지원.
 
 ### Discord
 
@@ -24,13 +24,13 @@
 게임에서 **/auth** 명령으로 Steam과 Discord를 연동해야 지급된다.
 {% endhint %}
 
-### 계좌이체 <a href="#account-transfer" id="account-transfer"></a>
+### ~~계좌이체~~(일시적으로 지원하지 않음) <a href="#account-transfer" id="account-transfer"></a>
 
 [토스](https://toss.me/%EC%9C%A0%EC%9E%90%EC%B0%A8%EC%84%9C%EB%B2%84/5000)에서 서포트가 가능하며 운영자 및 관리자 모두의 승인이 필요하기 때문에 혜택이 최대 1일 이내에 지급된다. 자동 갱신은 지원하지 않는다.
 
 {% hint style="warning" %}
 * 8월 1일부로 계좌이체 서포트 방법이 더 이상 지원되지 않는다. 핵심 기능인 토스 아이디의 서비스가 종료 예정이기 때문이다.
-* 입금 시 반드시 입금자명을 인 게임 닉네임으로 해야한다. 만약 그러지 않는 경우 본인확인을 위해 토스에서 [송금확인증](https://toss.im/\_m/7AstIoOt)을 관리자에게 첨부하여 전송해야 한다. 이 경우 혜택지급이 최대 2일 소요된다.
+* 입금 시 반드시 입금자명을 인 게임 닉네임으로 해야한다. 만약 그러지 않는 경우 본인확인을 위해 토스에서 송금확인증을 관리자에게 첨부하여 전송해야 한다. 이 경우 혜택지급이 최대 2일 소요된다.
 {% endhint %}
 
 ## 서포트 해지하기 <a href="#how-to-unsubscribe" id="how-to-unsubscribe"></a>

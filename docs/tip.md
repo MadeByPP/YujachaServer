@@ -8,23 +8,23 @@ description: 유저참여 기반으로 만들어가는 게임부터 증거기록
 
 ***
 
-1. [변환 페이지](https://www.y2mate.com/kr788)에 접속하여 원하는 오디오의 유튜브 주소를 입력하여 MP3파일로 설정한 후 다운로드를 누른다.
+1. [변환 페이지](#user-content-fn-1)[^1]에 접속하여 원하는 오디오의 유튜브 주소를 입력하여 MP3파일로 설정한 후 다운로드를 누른다.
 2. 다운로드를 누르면 Download .mp3라는 박스가 생성되는데 이 박스를 클릭하지 말고 우클릭 하여 링크 주소 복사를 클릭하여 해당 mp3파일의 링크를 복사한다.
-3. 게임에서 **/station URL**주소 형식으로 아까 복사한 URL을 붙여넣으면 포터블 붐박스에 해당 링크가 등록되어 위의 과정 반복 없이 음악을 재생할 수 있다.
+3. 게임에서 **/station URL주소** 형식으로 복사한 URL을 붙여넣으면 포터블 붐박스에 해당 링크가 등록되어 위의 과정 반복 없이 음악을 재생할 수 있다.
 
 \-포터블 붐박스가 아닌 바닥에 설치하는 붐박스의 경우
 
 1. 붐박스를 설치한다. (재생중인 상태  X)
 2. 위와 동일한 방법으로 붐박스를 바라보며 명령어를 적는다.
 
-<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## 클라이언트 렉 완화 <a href="#lag-improvement" id="lag-improvement"></a>
 
 ***
 
 {% hint style="info" %}
-![](.gitbook/assets/image.png)\
+![](<.gitbook/assets/image (4).png>)\
 러스트 업데이트로 gc buffer의 양을 조절할 수 있는 옵션이 실험실에 생겼다.\
 인 게임 -> 옵션 -> 실험
 {% endhint %}
@@ -49,13 +49,20 @@ Staem->라이브러리->Rust->속성 에 들어가서 시작 옵션에 다음과
 
 ***
 
-NVIDIA의 즉시 리플레이 기능은 손쉽게 n분 전 동영상 녹화가 가능한 블랙박스와 유사한 기능을 가지고 있다. 즉시 리플레이의 경우 전용 하드웨어 [NVENC 인코더](https://namu.wiki/w/NVIDIA%20NVENC)를 사용해 녹화하여 성능 저하를 최소화하지만 구형 기기에서 성능 저하가 발생할 수 있으며, 만약 성능 저하로 인해 게임 플레이에 지장이 생긴다고 느껴지면 녹화 화질, 비트레이트 등을 적절히 수정하거나 즉시 리플레이 기능을 사용하지 않을 수 있다.
+NVIDIA의 즉시 리플레이 기능은 손쉽게 n분 전 동영상 녹화가 가능한 블랙박스와 유사한 기능을 가지고 있다. 즉시 리플레이의 경우 전용 하드웨어 [NVENC 인코더](#user-content-fn-2)[^2]를 사용해 녹화하여 성능 저하를 최소화하지만 구형 기기에서 성능 저하가 발생할 수 있으며, 만약 성능 저하로 인해 게임 플레이에 지장이 생긴다고 느껴지면 녹화 화질, 비트레이트 등을 적절히 수정하거나 즉시 리플레이 기능을 사용하지 않을 수 있다.
 
-[여기에서](https://ko.gadget-info.com/68889-how-to-set-up-instant-replay-on-nvidia-geforce-experience) 즉시 리플레이 기능을 활성화 하는 방법을 확인해볼 수 있다. (Geforce GTX 600시리즈 이상의 그래픽카드부터 Geforce Experience가 설치되어 있다면 사용 가능, Geforce RTX 2000시리즈 이상은 인코딩 모듈이 업데이트 되어 그래픽 메모리만 거치므로 성능 저하가 더 적다. 하이라이트 기능은 성능 저하를 유발할 수도 있다.)
+즉시 리플레이 방법을 여기[^3]서 확인할 수 있다. Geforce GTX 600시리즈 이상의 그래픽카드부터 Geforce Experience가 설치되어 있다면 사용 가능. Geforce RTX 2000시리즈 이상은 인코딩 모듈이 업데이트 되어 그래픽 메모리만 거치므로 성능 저하가 더 적다. 하이라이트 기능은 성능 저하를 유발할 수도 있다.
 
-&#x20;AMD 또한 그래픽 제어판이 설치되어 있다면 약간 다르지만 [여기에서](https://lumitrail.tistory.com/7) 즉시 재생 방법을 확인하여 NVIDIA의 즉시 리플레이 기능과 유사한 기능을 사용할 수 있다.
+&#x20;AMD 또한 그래픽 제어판이 설치되어 있다면 약간 다르지만 NVIDIA의 즉시 리플레이 기능과 유사한 기능을 사용할 수 있다.
 
 ## 조작법 <a href="#manual" id="manual"></a>
 
 ***
 
+
+
+[^1]: [외부 링크](https://www.y2mate.com/kr788)
+
+[^2]: [외부 링크](https://namu.wiki/w/NVIDIA%20NVENC)
+
+[^3]: [외부 링크](https://ko.gadget-info.com/68889-how-to-set-up-instant-replay-on-nvidia-geforce-experience)
