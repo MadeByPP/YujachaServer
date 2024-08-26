@@ -11,7 +11,7 @@ description: 공식 서버와 다른 점. 또는 유자차 서버만의 특징. 
 접속국가[^1]를 제외하고 공식 서버와 동일한 [접속 요구사항](#user-content-fn-2)[^2]을 채택하고 있다.
 
 {% hint style="info" %}
-러스트 [게임밴](https://namu.wiki/w/EasyAntiCheat#s-2)[VAC밴](https://namu.wiki/w/%EB%B0%B8%EB%B8%8C%20%EC%95%88%ED%8B%B0%20%EC%B9%98%ED%8A%B8)의 경우 얄짤없이 접속이 불가능하니 주의해야 한다.
+러스트 게임밴이 아닌 타사 게임밴의 경우 [#game-ban-connection](faq.md#game-ban-connection "mention")를 따르면 접속이 가능하다. 그러나 VAC밴의 경우 얄짤없이 접속이 불가능하니 주의해야 한다.
 {% endhint %}
 
 ## 배율/배속 <a href="#scale-speed" id="scale-speed"></a>
