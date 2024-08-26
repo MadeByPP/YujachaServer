@@ -38,11 +38,19 @@
 
 유자차서버에는 스택이 적용되어 있기 때문에 아이템을 겹칠 수 있다. 같은 내구도인 아이템이 겹쳐져서 한 개라고 착각할 수 있다. 제작된 아이템을 클릭해보면 제작한 개수만큼의 아이템이 모두 있다.
 
-<figure><img src=".gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://i.imgur.com/ZGYbMJ9.jpg" alt=""><figcaption></figcaption></figure>
 
 ### 타사 게임 밴을 받았을 때 접속을 위한 절차 <a href="#game-ban-connection" id="game-ban-connection"></a>
 
-![](https://everee.gitbook.io/\~gitbook/image?url=https%3A%2F%2F2081225017-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FThuiRXbeGyxBZQIn5deS%252Fuploads%252FbLTevEY1bGY2hZ9GUSv5%252F%25EC%2595%2588%25EB%2582%25B4.png%3Falt%3Dmedia%26token%3D14d011ff-a292-439f-b8fd-6e809d3233f6\&width=300\&dpr=4\&quality=100\&sign=a6aca87d\&sv=1)![](https://everee.gitbook.io/\~gitbook/image?url=https%3A%2F%2F2081225017-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FThuiRXbeGyxBZQIn5deS%252Fuploads%252FJJy7WqlfKUe2pmqAlnwk%252F%25EC%2595%2588%25EB%2582%25B42.png%3Falt%3Dmedia%26token%3Dcdda4f44-7aae-48e1-89ab-ae74f8478aec\&width=300\&dpr=4\&quality=100\&sign=c50123fb\&sv=1)
+<div align="left" data-full-width="false">
+
+<figure><img src="https://i.imgur.com/Ju7Es1X.jpg" alt="" width="375"><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="https://i.imgur.com/NAUtpCH.jpg" alt="" width="375"><figcaption></figcaption></figure>
+
+</div>
 
 스팀에서 내 프로필에 접근한다. 그리고 차단 기록 보기 버튼을 통해 밴 기록 화면에 접근한다. 그러면 어떤 게임에서 차단을 받았는지 확인되는데, 이때 이 스팀 화면을 전체 캡처하여 관리자에게 전송하면 확인되는대로 화이트리스트에 등록된다.
 

@@ -1,8 +1,6 @@
 # 서포터 되기
 
-{% hint style="info" %}
 서포터 명령 및 혜택에 관한 것은 Tebex[^1]를 참고하십시오.
-{% endhint %}
 
 {% hint style="info" %}
 자주묻는 질문에 관한 것은 [#support](faq.md#support "mention")를 참고하십시오.
@@ -30,12 +28,12 @@ Tebex[^2]에서 서포트가 가능하며 혜택이 5분 이내에 자동으로 
 
 <div align="left">
 
-<figure><img src=".gitbook/assets/toss_image_1724659185280.png" alt="payment QR" width="188"><figcaption><p>수동입력 : 토스뱅크 100044246925</p></figcaption></figure>
+<figure><img src="https://i.imgur.com/XuIzUbe.jpg" alt="" width="188"><figcaption><p>수동입력 : 토스뱅크 100044246925</p></figcaption></figure>
 
 </div>
 
 {% hint style="warning" %}
-* 입금 시 반드시 입금자명을 인 게임 닉네임으로 해야한다. 만약 그러지 않는 경우 본인확인을 위해 토스에서 송금확인증을 관리자에게 첨부하여 전송해야 한다. 이 경우 혜택지급이 최대 2일 소요된다.
+입금 시 반드시 입금자명을 인 게임 닉네임으로 해야한다. 만약 그러지 않는 경우 본인확인을 위해 토스에서 송금확인증을 관리자에게 첨부하여 전송해야 한다. 이 경우 혜택지급이 최대 2일 소요된다.
 {% endhint %}
 
 ## 서포트 해지하기 <a href="#how-to-unsubscribe" id="how-to-unsubscribe"></a>
