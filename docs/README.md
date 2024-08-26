@@ -2,13 +2,11 @@
 
 <div align="left">
 
-<figure><img src="https://i.imgur.com/UOEPIy5.jpg?1" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/UOEPIy5.jpg" alt=""><figcaption></figcaption></figure>
 
 </div>
 
 <table data-header-hidden><thead><tr><th width="162"></th><th></th></tr></thead><tbody><tr><td>서비스 기간</td><td>2022년 2월 13일 ~ 서비스 중</td></tr></tbody></table>
-
-
 
 [러스트(게임)](https://namu.wiki/w/%EB%9F%AC%EC%8A%A4%ED%8A%B8\(%EA%B2%8C%EC%9E%84\))에 존재하는 모드 서버 중 하나이다.
 
