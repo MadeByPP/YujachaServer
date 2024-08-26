@@ -18,7 +18,7 @@ Tebex[^2]에서 서포트가 가능하며 혜택이 5분 이내에 자동으로 
 
 ### Discord
 
-[Discord Nitro](https://support.discord.com/hc/ko/articles/115000435108-Nitro-Nitro-Basic%EC%9D%80-%EB%AC%B4%EC%97%87%EC%9E%85%EB%8B%88%EA%B9%8C#h\_01GFV3NE6JPS6BRTX7XYQDJ0S4)에 포함된 서버 부스트 또는 [서버 부스트 단독](https://support.discord.com/hc/ko/articles/360028038352-Server-Boosting-FAQ-#h\_9dfb44db-c394-4339-863b-e6d1e3fb0469)으로 유자차 서버를 부스트 할 경우 자동으로 지급된다. 자동 갱신 지원.
+[Discord Nitro](#user-content-fn-3)[^3]에 포함된 서버 부스트 또는 [서버 부스트 단독](#user-content-fn-4)[^4]으로 유자차 서버를 부스트 할 경우 자동으로 지급된다. 자동 갱신 지원.
 
 {% hint style="warning" %}
 게임에서 **/auth** 명령으로 Steam과 Discord를 연동해야 지급된다.
@@ -26,7 +26,7 @@ Tebex[^2]에서 서포트가 가능하며 혜택이 5분 이내에 자동으로 
 
 ### ~~계좌이체~~(일시적으로 지원하지 않음) <a href="#account-transfer" id="account-transfer"></a>
 
-[토스](https://toss.me/%EC%9C%A0%EC%9E%90%EC%B0%A8%EC%84%9C%EB%B2%84/5000)에서 서포트가 가능하며 운영자 및 관리자 모두의 승인이 필요하기 때문에 혜택이 최대 1일 이내에 지급된다. 자동 갱신은 지원하지 않는다.
+토스[^5]에서 서포트가 가능하며 운영자 및 관리자 모두의 승인이 필요하기 때문에 혜택이 최대 1일 이내에 지급된다. 자동 갱신은 지원하지 않는다.
 
 {% hint style="warning" %}
 * 8월 1일부로 계좌이체 서포트 방법이 더 이상 지원되지 않는다. 핵심 기능인 토스 아이디의 서비스가 종료 예정이기 때문이다.
@@ -48,3 +48,9 @@ Tebex[^2]에서 서포트가 가능하며 혜택이 5분 이내에 자동으로 
 [^1]: [외부 링크](https://yujachaserversupport.tebex.io/)
 
 [^2]: [외부 링크](https://yujachaserversupport.tebex.io/)
+
+[^3]: [외부 링크](https://support.discord.com/hc/ko/articles/115000435108-Nitro-Nitro-Basic%EC%9D%80-%EB%AC%B4%EC%97%87%EC%9E%85%EB%8B%88%EA%B9%8C#h\_01GFV3NE6JPS6BRTX7XYQDJ0S4)
+
+[^4]: [외부 링크](https://support.discord.com/hc/ko/articles/360028038352-Server-Boosting-FAQ-#h\_9dfb44db-c394-4339-863b-e6d1e3fb0469)
+
+[^5]: [외부 링크](https://toss.me/%EC%9C%A0%EC%9E%90%EC%B0%A8%EC%84%9C%EB%B2%84/5000)

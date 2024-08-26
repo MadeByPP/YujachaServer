@@ -40,12 +40,12 @@
 우리는 다음과 같은 안전성 확보 조치를 취합니다.
 
 * 개인정보 접근 제한 및 접근 권한 관리
-* 개인정보 보관 및 전송 시 암호화([AES256](https://www.bandisoft.com/bandizip/help/7z/) 보관중 보호 및 [Dns Over Https](https://namu.wiki/w/DNS#s-3.6) 전송중 보호)
+* 개인정보 보관 및 전송 시 암호화(AES256[^1] 보관중 보호 및 [Dns Over Https](#user-content-fn-2)[^2] 전송중 보호)
 * 보안 프로그램 설치 및 점검
 
 ### 유저의 권리와 그 행사 방법
 
-* 개인정보 열람 요구. 정보주체는 법적 근거를 통하여 자신의 개인정보에 대한 열람, 정정, 삭제, 처리정지 청구를 신청할 수 있습니다. 이 과정에서 다른 유저의 개인정보는 [마스킹](https://namu.wiki/w/%EB%A7%88%EC%8A%A4%ED%82%B9#s-1) 처리됩니다. 다른 유저의 개인정보에 대한 요청의 경우 수사기관에 의해서만 권리를 행사할 수 있습니다. 이는 요청자에게 조작된 정보를 제공했다는 오해를 방지하기 위함입니다.
+* 개인정보 열람 요구. 정보주체는 법적 근거를 통하여 자신의 개인정보에 대한 열람, 정정, 삭제, 처리정지 청구를 신청할 수 있습니다. 이 과정에서 다른 유저의 개인정보는 마스킹[^3] 처리됩니다. 다른 유저의 개인정보에 대한 요청의 경우 수사기관에 의해서만 권리를 행사할 수 있습니다. 이는 요청자에게 조작된 정보를 제공했다는 오해를 방지하기 위함입니다.
 
 ### 개인정보 보호책임자
 
@@ -61,14 +61,42 @@
 
 타 서비스의 개인정보 보호정책에 관해서는 아래 링크들을 참고해주십시오.
 
-[GitBook](https://policies.gitbook.com/privacy-and-security/statement)\
-[Rust](https://facepunch.com/legal/privacy)(Facepunch Studios)\
-[Dyno](https://www.iubenda.com/privacy-policy/21925808)\
-[FredBoat](https://botlabs.gg/privacy-policy/)\
-[MEE6](https://mee6.xyz/privacy.html)\
-[sesh](https://sesh.fyi/policies/)\
-[Ticket Tool](https://tickettool.xyz/privacy-policy)\
-[크시](https://team-crescendo.me/policy/privacy/)\
-[Tebex](https://www.tebex.io/terms-privacy-policy)\
-[Discord](https://discord.com/privacy)\
-[토스](https://toss.im/privacy-policy)
+GitBook[^4]\
+Rust[^5]\(Facepunch Studios)\
+Dyno[^6]\
+FredBoat[^7]\
+MEE6[^8]\
+sesh[^9]\
+[Ticket Tool](#user-content-fn-10)[^10]\
+크시[^11]\
+Tebex[^12]\
+Discord[^13]\
+토스[^14]
+
+[^1]: [외부 링크](https://www.bandisoft.com/bandizip/help/7z/)
+
+[^2]: [외부 링크](https://namu.wiki/w/DNS#s-3.6)
+
+[^3]: [외부 링크](https://namu.wiki/w/%EB%A7%88%EC%8A%A4%ED%82%B9#s-1)
+
+[^4]: [외부 링크](https://policies.gitbook.com/privacy-and-security/statement)
+
+[^5]: [외부 링크](https://facepunch.com/legal/privacy)
+
+[^6]: [외부 링크](https://www.iubenda.com/privacy-policy/21925808)
+
+[^7]: [외부 링크](https://botlabs.gg/privacy-policy/)
+
+[^8]: [외부 링크](https://mee6.xyz/privacy.html)
+
+[^9]: [외부 링크](https://sesh.fyi/policies/)
+
+[^10]: [외부 링크](https://tickettool.xyz/privacy-policy)
+
+[^11]: [외부 링크](https://team-crescendo.me/policy/privacy/)
+
+[^12]: [외부 링크](https://www.tebex.io/terms-privacy-policy)
+
+[^13]: [외부 링크](https://discord.com/privacy)
+
+[^14]: [외부 링크](https://toss.im/privacy-policy)
