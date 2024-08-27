@@ -24,11 +24,11 @@ description: 공식 서버와 다른 점. 또는 유자차 서버만의 특징. 
 채석장과 무기류는 배율에서 제외되고 유황은 자원배율과 별도로 10배이다.
 {% endhint %}
 
-## 맵 <a href="#map" id="map"></a>
+## ~~통합 맵~~(일시적으로 작동하지 않음) <a href="#combined-map" id="combined-map"></a>
 
 ***
 
-편의성을위해 [약탈자 야영지(Bandit Camp)](#user-content-fn-5)[^5]가 [전초 기지(Outpost)](#user-content-fn-6)[^6]와 통합되어 헬기 구매 등 약탈자 야영지(Bandit Camp)에서 할 수 있는 것을 전초 기지(Outpost) 에서도 할 수 있다.
+~~편의성을위해~~ [~~약탈자 야영지(Bandit Camp)~~](#user-content-fn-5)[^5]~~가~~ [~~전초 기지(Outpost)~~](#user-content-fn-6)[^6]~~와 통합되어 헬기 구매 등 약탈자 야영지(Bandit Camp)에서 할 수 있는 것을 전초 기지(Outpost) 에서도 할 수 있다.~~
 
 ## 맵 이름 <a href="#map-name" id="map-name"></a>
 
@@ -181,11 +181,11 @@ Rust는 지난 10년간 꾸준히 월간 업데이트를 출시하고 있기 때
 
 [^8]: [외부 링크](https://rust.facepunch.com/companion)
 
-[^9]: [외부 링크](https://discord.com/channels/878836708379090944/944661910945669140/996207547361022033)
+[^9]: [외부 링크](discord://discord.com/channels/878836708379090944/944661910945669140/996207547361022033)
 
-[^10]: [외부 링크](https://discord.com/channels/878836708379090944/944661910945669140/996207547361022033)
+[^10]: [외부 링크](discord://discord.com/channels/878836708379090944/944661910945669140/996207547361022033)
 
-[^11]: [외부 링크](https://discord.com/channels/878836708379090944/1094513654101196911/1230646549462122567)
+[^11]: [외부 링크](discord://discord.com/channels/878836708379090944/1094513654101196911/1230646549462122567)
 
 [^12]: TC, 도구함이라고도 불린다.
 
