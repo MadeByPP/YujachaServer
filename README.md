@@ -1,6 +1,5 @@
 > [!Caution]
 > ## 이 리포지토리는 아직 완성되지 않았습니다.
-> * [공식 문서](https://everee.gitbook.io/yujachaserver)(Github와 마이그레이션 작업 중)
 > * [작업](https://everee.notion.site/85edcce4d44c45fbba28e93883bff801)(Github와 마이그레이션 작업 중)
 # 유자차서버
 [![release](https://img.shields.io/github/release/MadeByPP/yujachaserver/all.svg)](https://github.com/MadeByPP/yujachaserver/releases)
