@@ -18,7 +18,7 @@
 
 <div align="left">
 
-<figure><img src="https://i.imgur.com/m71QnQm.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/m71QnQm.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -38,17 +38,17 @@
 
 유자차서버에는 스택이 적용되어 있기 때문에 아이템을 겹칠 수 있다. 같은 내구도인 아이템이 겹쳐져서 한 개라고 착각할 수 있다. 제작된 아이템을 클릭해보면 제작한 개수만큼의 아이템이 모두 있다.
 
-<figure><img src="https://i.imgur.com/ZGYbMJ9.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
 
 ### 타사 게임 밴을 받았을 때 접속을 위한 절차 <a href="#game-ban-connection" id="game-ban-connection"></a>
 
 <div align="center" data-full-width="false">
 
-<figure><img src="https://i.imgur.com/Ju7Es1X.jpg" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/안내 (1).png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="https://i.imgur.com/NAUtpCH.jpg" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/안내2.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -77,6 +77,12 @@
 ### 구독 해지 방법 <a href="#how-to-unsubscribe" id="how-to-unsubscribe"></a>
 
 결제시 발송 된 이메일에 있는 버튼을 눌러 언제든지 요금 청구를 취소할 수 있다.
+
+<div align="left">
+
+<figure><img src=".gitbook/assets/UEX0ZPi.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 [^1]: 자신이 마지막으로 죽은 방식으로 사망원인이 표시됨
 

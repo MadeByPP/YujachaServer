@@ -17,7 +17,7 @@ description: 유저참여 기반으로 만들어가는 게임부터 증거기록
 1. 붐박스를 설치한다. (재생중인 상태  X)
 2. 위와 동일한 방법으로 붐박스를 바라보며 명령어를 적는다.
 
-<figure><img src="https://i.imgur.com/Q49tSvq.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## 클라이언트 렉 완화 <a href="#lag-improvement" id="lag-improvement"></a>
 
@@ -43,7 +43,7 @@ Staem->라이브러리->Rust->속성 에 들어가서 시작 옵션에 다음과
 
 또는 게임 도중 F1을 누르고 gc.buffer 2048을 입력하여 일시적으로 할당할 수 있다.
 
-<figure><img src="https://i.imgur.com/35xUrfT.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
 
 ## 동영상 증거기록 <a href="#automatic-recording" id="automatic-recording"></a>
 
@@ -59,7 +59,7 @@ NVIDIA의 즉시 리플레이 기능은 손쉽게 n분 전 동영상 녹화가 �
 
 ***
 
-
+작성 중
 
 [^1]: [외부 링크](https://www.y2mate.com/kr788)
 

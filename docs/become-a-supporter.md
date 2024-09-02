@@ -28,7 +28,7 @@ Tebex[^2]에서 서포트가 가능하며 혜택이 5분 이내에 자동으로 
 
 <div align="left">
 
-<figure><img src="https://i.imgur.com/XuIzUbe.jpg" alt="" width="188"><figcaption><p>수동입력 : 토스뱅크 100044246925</p></figcaption></figure>
+<figure><img src=".gitbook/assets/toss_image_1724659185280.png" alt="" width="188"><figcaption><p>수동입력 : 토스뱅크 100044246925</p></figcaption></figure>
 
 </div>
 
@@ -44,7 +44,7 @@ Tebex[^2]에서 서포트가 가능하며 혜택이 5분 이내에 자동으로 
 
 <div align="left">
 
-<figure><img src="https://i.imgur.com/UEX0ZPi.png" alt=""><figcaption><p>이메일에 포함된 버튼</p></figcaption></figure>
+<figure><img src=".gitbook/assets/UEX0ZPi.png" alt=""><figcaption><p>이메일에 포함된 버튼</p></figcaption></figure>
 
 </div>
 
