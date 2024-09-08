@@ -130,6 +130,12 @@ description: 공식 서버와 다른 점. 또는 유자차 서버만의 특징. 
 
 \[유자차] : 1시간 이상 플레이 시 지급
 
+{% hint style="info" %}
+서버에서 부여하는 칭호는 기본적으로 제거할 수 없다.
+
+칭호를 제거하려면 [become-a-supporter.md](become-a-supporter.md "mention")를 참고하십시오.
+{% endhint %}
+
 ## 비밀번호 자물쇠(Code Lock) 레이드 <a href="#anti-code-lock-raid" id="anti-code-lock-raid"></a>
 
 ***

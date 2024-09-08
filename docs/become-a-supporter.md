@@ -1,6 +1,8 @@
 # 서포터 되기
 
+{% hint style="info" %}
 서포터 명령 및 혜택에 관한 것은 Tebex[^1]를 참고하십시오.
+{% endhint %}
 
 {% hint style="info" %}
 자주묻는 질문에 관한 것은 [#support](faq.md#support "mention")를 참고하십시오.
