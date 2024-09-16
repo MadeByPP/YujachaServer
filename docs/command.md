@@ -4,6 +4,10 @@
 모든 명령은 한/영 관계없이 사용이 가능하다. 예를 들어 **/remove**의 경우 **/ㄱ드ㅐㅍㄷ** 로도 사용이 가능하다.
 {% endhint %}
 
+{% hint style="info" %}
+작성된 명령은 IBM의 [구문 다이어그램을 읽는 방법](#user-content-fn-1)[^1] 을 참고했다. {}의 경우 필수사항, \[]의 경우 선택사항.
+{% endhint %}
+
 ## 기본 <a href="#default" id="default"></a>
 
 ***
@@ -16,15 +20,15 @@
 
 러스트 특성 상 맵이 너무 큰 나머지 초반에 팀을 만나는데 한참 걸릴 수 있다. 텔레포트는 원하는 유저에게 즉시 이동할 수 있는 기능을 제공한다.
 
-<table data-full-width="false"><thead><tr><th width="182">명령</th><th>설명</th></tr></thead><tbody><tr><td><code>/tpr &#x3C;닉네임></code></td><td>닉네임에게 텔레포트 요청</td></tr><tr><td><code>/tpa</code></td><td>텔레포트 요청 수락(팀이면 자동 수락)</td></tr><tr><td><code>/tpc</code></td><td>현재 진행중인 홈/텔레포트 또는 받은 요청을 즉시 취소</td></tr></tbody></table>
+<table data-full-width="false"><thead><tr><th width="182">명령</th><th>설명</th></tr></thead><tbody><tr><td><code>/tpr {닉네임}</code></td><td>닉네임에게 텔레포트 요청</td></tr><tr><td><code>/tpa</code></td><td>텔레포트 요청 수락(팀이면 자동 수락)</td></tr><tr><td><code>/tpc</code></td><td>현재 진행중인 홈/텔레포트 또는 받은 요청을 즉시 취소</td></tr></tbody></table>
 
 {% hint style="info" %}
-**/block 닉네임** 명령으로 모르는 유저의 텔레포트 요청을 차단할 수 있다.
+**/block {닉네임}** 명령으로 모르는 유저의 텔레포트 요청을 차단할 수 있다.
 {% endhint %}
 
 ### /home
 
-<table><thead><tr><th width="232.49999999999997">명령</th><th>설명</th></tr></thead><tbody><tr><td><code>/home &#x3C;이름></code></td><td>이름 홈으로 텔레포트</td></tr><tr><td><code>/home add &#x3C;이름></code></td><td>이름 홈 추가</td></tr><tr><td><code>/home remove &#x3C;이름></code></td><td>이름 홈 삭제</td></tr></tbody></table>
+<table><thead><tr><th width="232.49999999999997">명령</th><th>설명</th></tr></thead><tbody><tr><td><code>/home {이름}</code></td><td>이름 홈으로 텔레포트</td></tr><tr><td><code>/home add {이름}</code></td><td>이름 홈 추가</td></tr><tr><td><code>/home remove {이름}</code></td><td>이름 홈 삭제</td></tr></tbody></table>
 
 ### /bgrade
 
@@ -39,9 +43,9 @@
 아이템 상점을 열 때 사용한다.
 
 {% hint style="info" %}
-1시간 플레이 시 상점[^1]에서 사용 가능한 5코인이 지급된다.
+1시간 플레이 시 상점[^2]에서 사용 가능한 5코인이 지급된다.
 
-코인을 추가로 구매[^2] 할 수도 있다.
+코인을 추가로 구매[^3] 할 수도 있다.
 {% endhint %}
 
 ### /playtime
@@ -60,7 +64,7 @@
 
 ### /al
 
-<table><thead><tr><th width="234.5">명령</th><th>설명</th></tr></thead><tbody><tr><td><code>/al code &#x3C;비밀번호></code></td><td>도어락 비밀번호 설정</td></tr><tr><td><code>/al toggle</code></td><td>도어락 자동설치 토글</td></tr></tbody></table>
+<table><thead><tr><th width="234.5">명령</th><th>설명</th></tr></thead><tbody><tr><td><code>/al code {비밀번호}</code></td><td>도어락 비밀번호 설정</td></tr><tr><td><code>/al toggle</code></td><td>도어락 자동설치 토글</td></tr></tbody></table>
 
 {% hint style="warning" %}
 /al code 명령으로 비밀번호를 설정해야 작동한다.
@@ -75,7 +79,7 @@
 URL주소로부터 오디오를 불러와 붐박스에서 재생
 
 ```
-/station <URL주소>
+/station {URL주소}
 ```
 
 {% hint style="warning" %}
@@ -91,7 +95,7 @@ URL주소로부터 오디오를 불러와 붐박스에서 재생
 닉네임 차단 (TP 요청 등)
 
 ```
-/block <닉네임>
+/block {닉네임}
 ```
 
 ### /outpost
@@ -122,14 +126,16 @@ URL주소로부터 오디오를 불러와 붐박스에서 재생
 
 ***
 
-서포터 명령은 Tebex[^3]를 참고하십시오.
+서포터 명령은 Tebex[^4]를 참고하십시오.
 
 {% hint style="info" %}
 데이터의 일관성을 보장하기 위해 문서에 직접 제공되지 않는다.
 {% endhint %}
 
-[^1]: 인 게임, **/shop**
+[^1]: [외부 링크](https://www.ibm.com/docs/ko/aix/7.3?topic=information-how-read-syntax-diagrams)
 
-[^2]: [외부 링크](https://yujachaserversupport.tebex.io/package/6022494)
+[^2]: 인 게임, **/shop**
 
-[^3]: [외부 링크](https://yujachaserversupport.tebex.io/)
+[^3]: [외부 링크](https://yujachaserversupport.tebex.io/package/6022494)
+
+[^4]: [외부 링크](https://yujachaserversupport.tebex.io/)
