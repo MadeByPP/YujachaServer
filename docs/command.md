@@ -62,6 +62,10 @@
 
 <table><thead><tr><th width="124.5">명령</th><th>설명</th></tr></thead><tbody><tr><td><code>/fs on</code></td><td>용광로 자동분배 켜기</td></tr><tr><td><code>/fs off</code></td><td>용광로 자동분배 끄기</td></tr></tbody></table>
 
+### /setui
+
+모드 서버 특성 상 다양한 플러그인들이 함께 동작하는데, 모든 플러그인의 인터페이스 크기는 바닐라[^4]에 맞춰 설계되어 있다. 시각적인 버그가 발생하는 경우 이 명령을 통해 UI 배율 조정을 해볼 수 있다.
+
 ### /al
 
 <table><thead><tr><th width="234.5">명령</th><th>설명</th></tr></thead><tbody><tr><td><code>/al code {비밀번호}</code></td><td>도어락 비밀번호 설정</td></tr><tr><td><code>/al toggle</code></td><td>도어락 자동설치 토글</td></tr></tbody></table>
@@ -110,8 +114,6 @@ URL주소로부터 오디오를 불러와 붐박스에서 재생
 
 배율서버 특성 상 공식 서버보다 더 많은 자원이 수집되기 때문에 기본 인벤토리 외에 추가로 사용 가능한 공간을 만들어주는 명령이다. 총 12칸을 이용할 수 있다.
 
-<table><thead><tr><th width="173.5">명령</th><th>설명</th></tr></thead><tbody><tr><td><code>/backpack</code></td><td>백팩 열기</td></tr><tr><td><code>/backpackgui</code></td><td>인벤토리 벨트 맨 오른쪽에 표시되는 백팩 아이콘 토글</td></tr></tbody></table>
-
 {% hint style="warning" %}
 사망시 백팩의 아이템도 떨어뜨린다.
 {% endhint %}
@@ -126,7 +128,7 @@ URL주소로부터 오디오를 불러와 붐박스에서 재생
 
 ***
 
-서포터 명령은 Tebex[^4]를 참고하십시오.
+서포터 명령은 Tebex[^5]를 참고하십시오.
 
 {% hint style="info" %}
 데이터의 일관성을 보장하기 위해 문서에 직접 제공되지 않는다.
@@ -138,4 +140,6 @@ URL주소로부터 오디오를 불러와 붐박스에서 재생
 
 [^3]: [외부 링크](https://yujachaserversupport.tebex.io/package/6022494)
 
-[^4]: [외부 링크](https://yujachaserversupport.tebex.io/)
+[^4]: 기본. 인터페이스 크기의 경우 1.0
+
+[^5]: [외부 링크](https://yujachaserversupport.tebex.io/)
