@@ -42,7 +42,7 @@
 
 ### 타사 게임 밴을 받았을 때 접속을 위한 절차 <a href="#game-ban-connection" id="game-ban-connection"></a>
 
-<div align="center" data-full-width="false">
+<div align="left" data-full-width="false">
 
 <figure><img src=".gitbook/assets/안내 (1).png" alt=""><figcaption></figcaption></figure>
 
