@@ -68,11 +68,7 @@
 
 ### /al
 
-<table><thead><tr><th width="234.5">명령</th><th>설명</th></tr></thead><tbody><tr><td><code>/al code {비밀번호}</code></td><td>도어락 비밀번호 설정</td></tr><tr><td><code>/al toggle</code></td><td>도어락 자동설치 토글</td></tr></tbody></table>
-
-{% hint style="warning" %}
-/al code 명령으로 비밀번호를 설정해야 작동한다.
-{% endhint %}
+<table><thead><tr><th width="234.5">명령</th><th>설명</th></tr></thead><tbody><tr><td><code>/al code {비밀번호}</code></td><td>도어락 비밀번호 사용자지정</td></tr><tr><td><code>/al hide</code></td><td>도어락 메시지 숨기기 토글</td></tr><tr><td><code>/al toggle</code></td><td>도어락 자동설치 토글</td></tr></tbody></table>
 
 ### /autoauthui
 
