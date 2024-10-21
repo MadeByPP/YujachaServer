@@ -1,6 +1,3 @@
-> [!Caution]
-> ## 이 리포지토리는 아직 완성되지 않았습니다.
-> * [작업](https://everee.notion.site/85edcce4d44c45fbba28e93883bff801)(Github와 마이그레이션 작업 중)
 # 유자차서버
 [![release](https://img.shields.io/github/release/MadeByPP/yujachaserver/all.svg)](https://github.com/MadeByPP/yujachaserver/releases)
 [![license](https://img.shields.io/badge/license-MIT%20License%202.0-blueviolet)](https://github.com/MadeByPP/YujachaServer/blob/main/LICENSE)
@@ -10,18 +7,17 @@
 
 러스트 유자차서버에 대한 리포지토리 입니다.
 # 왜 Github로 이전했나요?
-## 문서 측면
-### URL 주소
-![image](https://github.com/user-attachments/assets/020abacd-2adf-43bf-9d44-f058f51ba287)  
-이전 : 사용상 문제는 없으나 한글 URL 미지원으로 URL 주소의 의도를 한 번에 알아차리기 힘듦
-
-![image](https://github.com/user-attachments/assets/ddaedf0d-fd47-4304-be58-0e2bc552ca2d)  
-이후 : 한글 URL을 지원하는것 뿐만 아니라 깔끔한 URL 완성이 가능
-## 작업 측면
-### 태그 개수
+### 태그 개수와 가독성
 ![image](https://github.com/user-attachments/assets/c5556e19-ccf3-494c-8d45-316ab5d5012a)
 ![image](https://github.com/user-attachments/assets/a026395f-17e1-40ad-a492-5c0142440ee0)  
-이전 : 태그는 최대 20개 및 20자 이하로만 사용 가능
+태그를 더 많이 만들 수 있을 뿐만 아니라 오래된 게시물이 제대로 보이고, 다른 게시물과 합병 등 고급 기능을 제공합니다.
 
 ![image](https://github.com/user-attachments/assets/c1ea0d4f-9c15-4bc5-b5af-5f5caea19d1c)  
-이후 : 태그는 최대 99개 및 50자 이하로만 사용 가능
+더 긴 태그 이름
+### 체계적인 해결
+문제가 복잡한 경우 해결까지 많은 시간이 소요될 수 있는데, 이때 체계적으로 문제를 해결할 수 있는 도구를 제공합니다.
+### 새로운 마일스톤
+그동안 서버에 어떤 문제가 있었고 어떤 버전에서 수정이 되었는지 한눈에 확인이 가능합니다.
+### 사용자 참여형
+* 디스코드에서도 비슷한 기능인 지원 채널이 있습니다만 일반적이거나 빠른 오류수정에 적합합니다. 이 레포지토리는 더 낮은 레벨에서 발생하는 성가신 버그를 추적합니다.  
+* 기존에는 작업 페이지가 일방적으로 어드민이 진행중인 작업에 대한 정보를 제공했다면, 새로운 작업 페이지의 경우 작업에 자유롭게 의견을 남길 수 있다는 차별점이 있습니다.
