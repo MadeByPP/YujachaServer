@@ -1,317 +1,53 @@
-name: 🐞 Bug report
-description: If you found something that we should know about
-labels: ["Bug"]
+name: 🐞 버그 보고
+description: 우리가 알아야 할 것을 찾았다면.
+labels: ["bug"]
 body:
   - type: markdown
     attributes:
       value: |
-        Thanks for taking the time to fill out this bug report!
+        버그 보고서를 작성하는데 시간을 내주셔서 감사합니다!
 
   - type: checkboxes
     attributes:
-      label: Please answer the following questions for yourself before submitting an issue
+      label: 문제를 제출하기 전에 다음 질문에 담해주세요.
       options:
-        - label: Filters were updated before reproducing an issue
+        - label: 문제가 재연되기 전에 서버의 버전이 업데이트 되었습니다.
           required: true
-        - label: I checked the [knowledge base](https://adguard.com/kb/) and found no answer
+        - label: [자주묻는 질문](https://everee.gitbook.io/yujachaserver/faq/)을 확인했지만 답을 찾지 못했습니다.
           required: true
-        - label: I checked to make sure that this issue has not already been filed
+        - label: 이 문제가 이지 제기되지 않았는지 확인했습니다.
           required: true
 
   - type: input
     id: app_version
     attributes:
-      label: AdGuard version
-      description: What version of our application are you running?
-      placeholder: For example, 4.5.3
+      label: 서버 버전
+      description: 어떤 버전에서 오류가 발생하나요?
+      placeholder: 예를 들어, 2.13.1
     validations:
       required: true
 
   - type: textarea
     attributes:
-      label: Environment
+      label: 환경
       description: |
         Examples:
-          - **OS**: 17.3
-          - **Device**: iPhone 15
+          - **OS**: Windows 11
+          - **Version**: 23H2
       value: |
           - OS:
           - Device:
     validations:
       required: true
 
-  - type: markdown
-    attributes:
-      value: |
-        Select enabled filters if they are related to the application bug.
-        If the issue is related to the filtering (missed ads, cookie, etc.)
-        use the [Web Reporting Tool](https://kb.adguard.com/technical-support/reporting-tool) please.
-        
-  - type: dropdown
-    id: filters_adblock
-    attributes:
-      label: Ad Blocking
-      multiple: true
-      options:
-        - AdGuard Base filter
-        - AdGuard Mobile Ads filter
-        - EasyList
-    validations:
-      required: false
-
-  - type: dropdown
-    id: filters_privacy
-    attributes:
-      label: Privacy
-      multiple: true
-      options:
-        - AdGuard Tracking Protection filter
-        - EasyPrivacy
-        - Peter Lowe's Blocklist
-        - Fanboy's Anti-Facebook List
-        - Fanboy's Anti-thirdparty Fonts
-    validations:
-      required: false
-
-  - type: dropdown
-    id: filters_social
-    attributes:
-      label: Social
-      multiple: true
-      options:
-        - AdGuard Social Media filter
-        - Fanboy's Social Blocking List
-    validations:
-      required: false
-
-  - type: dropdown
-    id: filters_annoyances
-    attributes:
-      label: Annoyances
-      multiple: true
-      options:
-        - AdGuard Annoyances filter
-        - AdGuard Cookie Notices filter
-        - AdGuard Popups filter
-        - AdGuard Mobile App Banners filter
-        - AdGuard Other Annoyances filter
-        - AdGuard Widgets filter
-        - Adblock Warning Removal List
-        - Fanboy's Annoyances
-        - I don't care about cookies
-        - EasyList Cookie List
-        - Dandelion Sprout's Annoyances List
-    validations:
-      required: false
-
-  - type: dropdown
-    id: filters_security
-    attributes:
-      label: Security
-      multiple: true
-      options:
-        - NoCoin Filter List
-    validations:
-      required: false
-
-  - type: dropdown
-    id: filters_other
-    attributes:
-      label: Other
-      multiple: true
-      options:
-        - Filter unblocking search ads and self-promotion
-        - AdGuard DNS filter
-        - AdGuard Experimental filter
-    validations:
-      required: false
-
-  - type: dropdown
-    id: filters_regional
-    attributes:
-      label: Language-specific
-      multiple: true
-      options:
-        - AdGuard Chinese filter
-        - AdGuard Dutch filter
-        - AdGuard French filter
-        - AdGuard German filter
-        - AdGuard Japanese filter
-        - AdGuard Russian filter
-        - AdGuard Spanish/Portuguese filter
-        - AdGuard Turkish filter
-        - AdGuard Ukrainian filter
-        - ABPindo
-        - ABPVN List
-        - Adblock List for Finland
-        - AdBlockID
-        - Bulgarian list
-        - CJX's Annoyances List
-        - Dandelion Sprout's Nordic Filters
-        - Dandelion Sprout's Serbo-Croatian List
-        - EasyList China
-        - EasyList Czech and Slovak
-        - EasyList Dutch
-        - EasyList Germany
-        - EasyList Hebrew
-        - EasyList Italy
-        - EasyList Lithuania
-        - EasyList Polish
-        - EasyList Portuguese
-        - EasyList Spanish
-        - EasyList Thailand
-        - Estonian List
-        - Frellwit's Swedish Filter
-        - Greek AdBlock Filter
-        - Hungarian filter
-        - Icelandic ABP List
-        - IndianList
-        - KAD - Anti-Scam
-        - Latvian List
-        - List-KR
-        - Liste AR
-        - Liste FR
-        - Macedonian adBlock Filters
-        - Official Polish filters for AdBlock, uBlock Origin & AdGuard
-        - Persian Blocker
-        - Polish Annoyances Filters
-        - Polish Anti Adblock Filters
-        - Polish Anti-Annoying Special Supplement
-        - Polish GDPR-Cookies Filters
-        - Polish Social Filters
-        - road-block light
-        - ROList
-        - ROLIST2
-        - RU AdList - Counters
-        - Xfiles
-        - xinggsf
-        - YousList
-    validations:
-      required: false
-
-  - type: checkboxes
-    attributes:
-      label: Advanced protection for Safari
-      description: Do you have advanced protection enabled in AdGuard for iOS app?
-      options:
-        - label: yes, I do
-    validations:
-      required: false
-
-  - type: dropdown
-    id: dns_protection
-    attributes:
-      label: Which DNS server do you use?
-      description: Skip this if DNS protection is disabled
-      multiple: false
-      options:
-        - DNS protection disabled
-        - System default
-        - AdGuard DNS
-        - AdGuard DNS Family Protection
-        - AdGuard DNS Non-filtering
-        - Google DNS
-        - Cloudflare DNS
-        - Cloudflare for Families - Malware and Adult Content
-        - Cloudflare for Families - Malware Blocking
-        - Open DNS
-        - Open DNS with Family Shield
-        - Quad9
-        - Custom DNS
-    validations:
-      required: true
-      
-  - type: dropdown
-    id: dns_protocol
-    attributes:
-      description: Skip this if DNS protection is disabled
-      label: DNS protocol
-      multiple: false
-      options:
-        - DNS protection disabled
-        - Regular
-        - DNSCrypt
-        - DNS-over-HTTPS
-        - DNS-over-TLS
-        - DNS-over-QUIC
-    validations:
-      required: true
-      
-  - type: textarea
-    id: custom_dns
-    attributes:
-      label: Custom DNS
-      description: Please provide a link to the custom DNS you use
-      placeholder: If you have enabled DNS from the pre-defined list, skip this step.
-    validations:
-      required: false
-
-  - type: checkboxes
-    id: dns_filter
-    attributes:
-      label: DNS filtering
-      description: Do you have AdGuard DNS filter enabled?
-      options:
-        - label: yes, I do
-          required: false
-
-  - type: textarea
-    id: custom_dns_filter
-    attributes:
-      label: Custom DNS filter
-      description: Please provide a link to the custom DNS filter you use
-      placeholder: Skip this step if you have DNS protection disabled.
-    validations:
-      required: false
-
-  - type: dropdown
-    id: dns_implementation
-    attributes:
-      label: DNS implementation
-      description: Skip this if DNS protection is disabled
-      multiple: false
-      options:
-        - DNS protection disabled
-        - AdGuard
-        - Native
-    validations:
-      required: true
-
-  - type: dropdown
-    id: tunnel_mode
-    attributes:
-      label: Tunnel mode
-      description: Skip this if DNS protection is disabled
-      multiple: false
-      options:
-        - DNS protection disabled
-        - Split-Tunnel
-        - Full-Tunnel
-        - Full-Tunnel (without VPN icon)
-    validations:
-      required: true
-
-  - type: textarea
-    id: advanced
-    attributes:
-      label: Low-level settings
-      description: Let us know if you have made any changes to the low-level settings
-      placeholder: 
-      value: |
-        Bootstrap server:
-        Fallback server:
-        Blocking mode, etc:
-    validations:
-      required: false
-
   - type: textarea
     id: what-happened
     attributes:
-      label: Issue Details
-      description: Please provide a set of steps to reproduce the issue
+      label: 문제 세부정보
+      description: 이 문제를 재연하기 위한 단계를 알려주세요
       placeholder:
       value: |
-        Steps to reproduce:
+        문제를 재연하는 방법:
         1.
         2.
         3.
@@ -321,17 +57,17 @@ body:
   - type: textarea
     id: how_it_should_be
     attributes:
-      label: Expected Behavior
+      label: 예상 동작
       description:
-      placeholder: A clear and concise description of what you expected to happen.
+      placeholder: 어떤 일이 일어나기를 기대하는지 명확하고 간결하게 설명해주세요.
     validations:
       required: false
   
   - type: textarea
     id: how_it_is
     attributes:
-      label: Actual Behavior
-      placeholder: A clear description of what happened instead.
+      label: 실제 행동
+      placeholder: 대신 무슨 일이 일어났는지 명확하게 설명해주세요.
     validations:
       required: true
 
@@ -340,13 +76,13 @@ body:
     attributes:
       label: Screenshots
       description: |
-        If applicable add screenshots explaining your problem.
-        You can drag and drop images or paste them from clipboard.
-        Use `<details> </details>` tag to hide screenshots under the spoiler.
+        문제를 설명하는 스크린샷이 있는 경우 추가하세요.
+        이미지를 끌어서 놓거나 클립보드에서 붙여넣을 수 있습니다.
+        `<details> </details>`태그를 사용하여 스포일러 아래에 스크린샷을 숨깁니다.
       placeholder: If applicable add screenshots explaining your problem.
       value: |
           <details><summary>Screenshot 1</summary>
-          <!-- paste screenshot here -->
+          <!-- 스크린샷을 여기에 붙여넣으세요 -->
           </details>
     validations:
       required: false
@@ -354,8 +90,8 @@ body:
   - type: textarea
     id: additional
     attributes:
-      label: Additional Information
-      placeholder: Add any other context about the problem here.
+      label: 추가 정보
+      placeholder: 문제애 대한 추가 정보를 여기에 추가해주세요.
     validations:
       required: false
 
@@ -363,4 +99,4 @@ body:
     attributes:
       value: |
         ---
-        Upvote [important issues](https://github.com/AdguardTeam/AdguardForiOS/issues?q=is%3Aissue+is%3Aopen+sort%3Areactions-%2B1-desc+) with a :+1:
+        [중요한 문제에](https://github.com/MadeByPP/YujachaServer/issues?q=is%3Aissue+is%3Aopen+sort%3Areactions-%2B1-desc) :+1:로 추천해주세요
