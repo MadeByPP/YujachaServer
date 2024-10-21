@@ -11,11 +11,11 @@ body:
     attributes:
       label: 문제를 제출하기 전에 다음 질문에 담해주세요.
       options:
-        - label: |문제가 재연되기 전에 서버의 버전이 업데이트 되었습니다.
+        - label: I문제가 재연되기 전에 서버의 버전이 업데이트 되었습니다.
           required: true
-        - label: |[자주묻는 질문](https://everee.gitbook.io/yujachaserver/faq/)을 확인했지만 답을 찾지 못했습니다.
+        - label: I[자주묻는 질문](https://everee.gitbook.io/yujachaserver/faq/)을 확인했지만 답을 찾지 못했습니다.
           required: true
-        - label: |이 문제가 이미 제기되지 않았는지 확인했습니다.
+        - label: I이 문제가 이미 제기되지 않았는지 확인했습니다.
           required: true
 
   - type: input
