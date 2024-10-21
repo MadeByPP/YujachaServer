@@ -35,8 +35,8 @@ body:
           - **운영체제**: Windows 11
           - **버전**: 23H2
       value: |
-          - 운영체제:
-          - 버전:
+          - 운영체제: 
+          - 버전: 
     validations:
       required: true
 
