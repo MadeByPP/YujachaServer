@@ -2,7 +2,7 @@
 [![release](https://img.shields.io/github/release/MadeByPP/yujachaserver/all.svg)](https://github.com/MadeByPP/yujachaserver/releases)
 [![license](https://img.shields.io/badge/license-MIT%20License%202.0-blueviolet)](https://github.com/MadeByPP/YujachaServer/blob/main/LICENSE)
 [![discord](https://img.shields.io/badge/discord-참여하기-5865F2?logo=Discord&logoColor=white)](https://discord.gg/gQRXVp6z8Y)
-[![docs](https://img.shields.io/badge/docs-보기-5865F2?logo=gitbook&logoColor=ffffff&label=%20&labelColor=5c5c5c&color=3F89A1)](https://everee.gitbook.io/yujachaserver)
+[![docs](https://img.shields.io/badge/gitbook-문서보기-3F89A1?logo=gitbook&logoColor=white)](https://everee.gitbook.io/yujachaserver)
 
 러스트 유자차서버에 대한 리포지토리 입니다.
 # 왜 Github로 이전했나요?
