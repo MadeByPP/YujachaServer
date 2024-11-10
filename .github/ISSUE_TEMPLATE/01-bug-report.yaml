@@ -80,7 +80,9 @@ body:
       placeholder: If applicable add screenshots explaining your problem.
       value: |
           <details><summary>Screenshot 1</summary>
-          <!-- 스크린샷을 여기에 붙여넣으세요 -->
+          
+          스크린샷을 여기에 붙여넣으세요
+          
           </details>
     validations:
       required: false
