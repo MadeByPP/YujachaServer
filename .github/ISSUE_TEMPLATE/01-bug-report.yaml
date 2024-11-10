@@ -9,9 +9,9 @@ body:
 
   - type: checkboxes
     attributes:
-      label: 문제를 제출하기 전에 다음 질문에 담해주세요.
+      label: 문제를 제출하기 전에 다음 질문에 답해주세요.
       options:
-        - label: I문제가 재연되기 전에 서버의 버전이 업데이트 되었습니다.
+        - label: I문제가 재현되기 전에 서버의 버전이 업데이트 되었습니다.
           required: true
         - label: I[자주묻는 질문](https://everee.gitbook.io/yujachaserver/faq/)을 확인했지만 답을 찾지 못했습니다.
           required: true
@@ -44,7 +44,7 @@ body:
     id: what-happened
     attributes:
       label: 문제 세부정보
-      description: 이 문제를 재연하기 위한 단계를 알려주세요
+      description: 이 문제를 재현하기 위한 단계를 알려주세요
       placeholder:
       value: |
         문제를 재연하는 방법:
