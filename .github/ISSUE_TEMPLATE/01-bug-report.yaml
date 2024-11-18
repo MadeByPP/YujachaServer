@@ -91,7 +91,7 @@ body:
     id: additional
     attributes:
       label: 추가 정보
-      placeholder: 문제애 대한 추가 정보를 여기에 추가해주세요.
+      placeholder: 문제에 대한 추가 정보를 여기에 추가해주세요.
     validations:
       required: false
 
