@@ -1,31 +1,31 @@
 name: 🌱 Feature request
-description: If you know how AdGuard for iOS can be improved
-labels: ["Feature request"]
+description: 어떻게 하면 유자차 서버가 개선될지 알고 있다면
+labels: ["기능 요청"]
 body:
   - type: textarea
     id: what-happened
     attributes:
-      label: Issue Details
-      description: What happened?
-      placeholder: Is your feature request related to a problem? Please add a clear and concise description of what the problem is.
+      label: 문제 상세설명
+      description: 무슨 일인가요?
+      placeholder: 이 기능 요청이 버그와 관련되어 있나요? 버그가 무엇인지 명확하고 확실하게 설명해주세요.
     validations:
       required: true
 
   - type: textarea
     id: how_it_should_be
     attributes:
-      label: Proposed solution
+      label: 해결책 제안
       description:
-      placeholder: Describe the solution you'd like in a clear and concise manner.
+      placeholder: 원하는 해결책을 명확하고 간결하게 설명해주세요.
     validations:
       required: true
 
   - type: textarea
     id: additional
     attributes:
-      label: Alternative solution
+      label: 대체 해결책
       description:
-      placeholder: A clear and concise description of any alternative solutions or features you've considered.
+      placeholder: 고려한 대체 해결책 또는 기능에 대한 명확하고 간결하게 설명해주세요.
     validations:
       required: false
 
@@ -33,4 +33,4 @@ body:
     attributes:
       value: |
         ---
-        Upvote [important issues](https://github.com/AdguardTeam/AdguardForiOS/issues?q=is%3Aissue+is%3Aopen+sort%3Areactions-%2B1-desc+) with a :+1:
+        [중요한 문제에](https://github.com/AdguardTeam/AdguardForiOS/issues?q=is%3Aissue+is%3Aopen+sort%3Areactions-%2B1-desc+) :+1:로 추천해주세요
