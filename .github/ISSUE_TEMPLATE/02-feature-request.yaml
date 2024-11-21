@@ -1,6 +1,6 @@
-name: 🌱 Feature request
+name: 🌱 기능 요청
 description: 어떻게 하면 유자차 서버가 개선될지 알고 있다면
-labels: ["기능 요청"]
+labels: ["Feature request"]
 body:
   - type: textarea
     id: what-happened
