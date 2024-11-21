@@ -24,7 +24,7 @@ description: 유저참여 기반으로 만들어가는 게임부터 증거기록
 ***
 
 {% hint style="info" %}
-<img src=".gitbook/assets/image (4).png" alt="" data-size="original">\
+<img src=".gitbook/assets/image (4) (1).png" alt="" data-size="original">\
 러스트 업데이트로 gc buffer의 양을 조절할 수 있는 옵션이 실험실에 생겼다.\
 인 게임 -> 옵션 -> 실험
 {% endhint %}
