@@ -14,13 +14,9 @@
 
 ### 서버가 목록에 보이지 않음 <a href="#no-servers-listed" id="no-servers-listed"></a>
 
-러스트 검색 옵션에서 기본적으로 빈 서버를 표시하고 있지 않기 때문일 수 있다. **빈 서버 표시(Show Empty)**를 켜면 보일 수도있다.
+러스트 검색 옵션에서 기본적으로 빈 서버를 표시하고 있지 않기 때문일 수 있다. **빈 서버 표시(Show Empty)**&#xB97C; 켜면 보일 수도있다.
 
-<div align="left">
-
-<figure><img src=".gitbook/assets/m71QnQm.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src=".gitbook/assets/m71QnQm.png" alt=""><figcaption></figcaption></figure></div>
 
 ### 서버 재시동(점검) 소요시간 <a href="#restart-time-required" id="restart-time-required"></a>
 
@@ -42,17 +38,11 @@
 
 ### 타사 게임 밴을 받았을 때 접속을 위한 절차 <a href="#game-ban-connection" id="game-ban-connection"></a>
 
-<div align="left" data-full-width="false">
-
-<figure><img src=".gitbook/assets/안내 (1).png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src=".gitbook/assets/안내2.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left" data-full-width="false"><figure><img src=".gitbook/assets/안내 (1).png" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/안내2.png" alt=""><figcaption></figcaption></figure></div>
 
 스팀에서 내 프로필에 접근한다. 그리고 차단 기록 보기 버튼을 통해 밴 기록 화면에 접근한다. 그러면 어떤 게임에서 차단을 받았는지 확인되는데, 이때 이 스팀 화면을 전체 캡처하여 관리자에게 전송하면 확인되는대로 화이트리스트에 등록된다.
+
+## &#x20;<a href="#discord" id="discord"></a>
 
 ## 디스코드 <a href="#discord" id="discord"></a>
 
@@ -61,6 +51,8 @@
 ### 서버상태 채널에 있는 평균 FPS <a href="#average-fps" id="average-fps"></a>
 
 서버상태중 평균 FPS라는 항목이 있다. 클라이언트의 최대 FPS에는 영향을 주지 않지만 20FPS 이하로 내려갈 경우 클라이언트의 성능에 영향[^2]을 줄 수 있다.
+
+## &#x20;<a href="#support" id="support"></a>
 
 ## 서포트 <a href="#support" id="support"></a>
 
@@ -78,11 +70,7 @@
 
 결제시 발송 된 이메일에 있는 버튼을 눌러 언제든지 요금 청구를 취소할 수 있다.
 
-<div align="left">
-
-<figure><img src=".gitbook/assets/UEX0ZPi.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src=".gitbook/assets/UEX0ZPi.png" alt=""><figcaption></figcaption></figure></div>
 
 [^1]: 자신이 마지막으로 죽은 방식으로 사망원인이 표시됨
 

@@ -8,7 +8,7 @@
 작성된 명령은 IBM의 [구문 다이어그램을 읽는 방법](#user-content-fn-1)[^1] 을 참고했다. {}의 경우 필수사항, \[]의 경우 선택사항.
 {% endhint %}
 
-## 기본 <a href="#default" id="default"></a>
+## 인 게임 <a href="#default" id="default"></a>
 
 ***
 
@@ -119,6 +119,22 @@ URL주소로부터 오디오를 불러와 붐박스에서 재생
 점검 후 30분 이내에 접속 시 보상을 받을 수 있다.
 
 <table><thead><tr><th width="369.5">보상</th><th data-type="number">개수</th><th>내구도</th></tr></thead><tbody><tr><td>Assaurt Rifle ( AK-47 돌격 소총)</td><td>1</td><td>30%</td></tr><tr><td>5.56 Rifle Ammo (5.56mm 소총탄)</td><td>60</td><td></td></tr></tbody></table>
+
+
+
+## &#x20;<a href="#discord" id="discord"></a>
+
+## 디스코드 <a href="#discord" id="discord"></a>
+
+***
+
+### /wipe
+
+다음 초기화일을 확인합니다.
+
+
+
+## &#x20;<a href="#supporter" id="supporter"></a>
 
 ## 서포터 <a href="#supporter" id="supporter"></a>
 
