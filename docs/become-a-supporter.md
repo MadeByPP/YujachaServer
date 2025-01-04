@@ -24,7 +24,7 @@ Tebex[^2]에서 서포트가 가능하며 혜택이 5분 이내에 자동으로 
 게임에서 **/auth** 명령으로 Steam과 Discord를 연동해야 지급된다.
 {% endhint %}
 
-### 계좌이체 <a href="#account-transfer" id="account-transfer"></a>
+### 계좌이체 <a href="#transfer" id="transfer"></a>
 
 운영자 및 관리자 모두의 승인이 필요하기 때문에 혜택이 최대 1일 이내에 지급된다. 아래의 QR 코드를 스캔하거나 수동으로 입력하여 진행할 수 있다. 자동 갱신은 지원하지 않는다.
 
