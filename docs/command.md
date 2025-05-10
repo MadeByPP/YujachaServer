@@ -101,7 +101,7 @@ URL주소로부터 오디오를 불러와 붐박스에서 재생
 ```
 
 {% hint style="warning" %}
-일반 URL주소로는 재생되지 않는다. [#boombox-url](tips.md#boombox-url "mention")팁 순서대로 mp3파일 URL을 따로추출해야 한다.
+일반 URL주소로는 재생되지 않는다. [#boombox-url](tip.md#boombox-url "mention")팁 순서대로 mp3파일 URL을 따로추출해야 한다.
 {% endhint %}
 
 ### /rank

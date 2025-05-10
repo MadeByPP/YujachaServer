@@ -56,7 +56,7 @@
 
 ### 해외 결제 가능한 카드가 없음 <a href="#no-card" id="no-card"></a>
 
-결제수단 중 하나로 결제하고 본인의 스팀 아이디로 로그인하면 결과적으로 본인이 후원한 것이 된다. 또는 [#supportmethod](supporter.md#supportmethod "mention")중 다른 방법을 사용할 수도 있다.
+결제수단 중 하나로 결제하고 본인의 스팀 아이디로 로그인하면 결과적으로 본인이 후원한 것이 된다. 또는 [#supportmethod](become-a-supporter.md#supportmethod "mention")중 다른 방법을 사용할 수도 있다.
 
 ### 서포트가 예기치 않게 종료된 경우 <a href="#support-ends-unexpectedly" id="support-ends-unexpectedly"></a>
 
