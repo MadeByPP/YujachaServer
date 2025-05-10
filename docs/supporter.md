@@ -1,4 +1,4 @@
-# 서포터 되기
+# 서포터
 
 {% hint style="info" %}
 서포터 명령 및 혜택에 관한 것은 Tebex[^1]를 참고하십시오.
@@ -8,7 +8,7 @@
 자주묻는 질문에 관한 것은 [#support](faq.md#support "mention")를 참고하십시오.
 {% endhint %}
 
-## 서포트 방법 <a href="#supportmethod" id="supportmethod"></a>
+## 서포트 방법 <a href="#support-method" id="support-method"></a>
 
 ***
 
@@ -34,9 +34,7 @@ Tebex[^1]에서 서포트가 가능하며 혜택이 5분 이내에 자동으로 
 입금 시 반드시 입금자명을 인 게임 닉네임으로 해야한다. 만약 그러지 않는 경우 본인확인을 위해 송금확인증을 관리자에게 첨부하여 전송해야 한다. 이 경우 혜택지급이 최대 2일 소요된다.
 {% endhint %}
 
-## &#x20;<a href="#na" id="na"></a>
-
-## 서포트 해지하기 <a href="#how-to-unsubscribe" id="how-to-unsubscribe"></a>
+## 서포트 해지하기 <a href="#cancel-support" id="cancel-support"></a>
 
 ***
 

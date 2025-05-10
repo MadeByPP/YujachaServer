@@ -1,3 +1,21 @@
+---
+coverY: 0
+layout:
+  cover:
+    visible: false
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # 명령어
 
 {% hint style="info" %}
@@ -83,7 +101,7 @@ URL주소로부터 오디오를 불러와 붐박스에서 재생
 ```
 
 {% hint style="warning" %}
-일반 URL주소로는 재생되지 않는다. [#boombox-url](tip.md#boombox-url "mention")팁 순서대로 mp3파일 URL을 따로추출해야 한다.
+일반 URL주소로는 재생되지 않는다. [#boombox-url](tips.md#boombox-url "mention")팁 순서대로 mp3파일 URL을 따로추출해야 한다.
 {% endhint %}
 
 ### /rank
@@ -122,8 +140,6 @@ URL주소로부터 오디오를 불러와 붐박스에서 재생
 
 
 
-## &#x20;<a href="#discord" id="discord"></a>
-
 ## 디스코드 <a href="#discord" id="discord"></a>
 
 ***
@@ -133,8 +149,6 @@ URL주소로부터 오디오를 불러와 붐박스에서 재생
 다음 초기화일을 확인
 
 
-
-## &#x20;<a href="#supporter" id="supporter"></a>
 
 ## 서포터 <a href="#supporter" id="supporter"></a>
 

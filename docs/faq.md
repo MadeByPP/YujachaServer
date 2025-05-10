@@ -42,8 +42,6 @@
 
 스팀에서 내 프로필에 접근한다. 그리고 차단 기록 보기 버튼을 통해 밴 기록 화면에 접근한다. 그러면 어떤 게임에서 차단을 받았는지 확인되는데, 이때 이 스팀 화면을 전체 캡처하여 관리자에게 전송하면 확인되는대로 화이트리스트에 등록된다.
 
-## &#x20;<a href="#na" id="na"></a>
-
 ## 디스코드 <a href="#discord" id="discord"></a>
 
 ***
@@ -52,15 +50,13 @@
 
 서버상태중 평균 FPS라는 항목이 있다. 클라이언트의 최대 FPS에는 영향을 주지 않지만 20FPS 이하로 내려갈 경우 클라이언트의 성능에 영향[^2]을 줄 수 있다.
 
-## &#x20;<a href="#na" id="na"></a>
-
 ## 서포트 <a href="#support" id="support"></a>
 
 ***
 
 ### 해외 결제 가능한 카드가 없음 <a href="#no-card" id="no-card"></a>
 
-결제수단 중 하나로 결제하고 본인의 스팀 아이디로 로그인하면 결과적으로 본인이 후원한 것이 된다. 또는 [#supportmethod](become-a-supporter.md#supportmethod "mention")중 다른 방법을 사용할 수도 있다.
+결제수단 중 하나로 결제하고 본인의 스팀 아이디로 로그인하면 결과적으로 본인이 후원한 것이 된다. 또는 [#supportmethod](supporter.md#supportmethod "mention")중 다른 방법을 사용할 수도 있다.
 
 ### 서포트가 예기치 않게 종료된 경우 <a href="#support-ends-unexpectedly" id="support-ends-unexpectedly"></a>
 
