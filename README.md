@@ -1,3 +1,7 @@
+> 🚨 **중요 공지 (DEPRECATED):**  
+> **❗ 이 프로젝트는 더 이상 활발히 관리되지 않습니다.**  
+> 당분간 유지보수 및 기능 추가 계획이 없으며, 참고용으로만 사용하시기 바랍니다.  
+
 # 유자차서버
 [![release](https://img.shields.io/github/release/MadeByPP/yujachaserver/all.svg)](https://github.com/MadeByPP/yujachaserver/releases)
 [![license](https://img.shields.io/badge/license-MIT%20License%202.0-blueviolet)](https://github.com/MadeByPP/YujachaServer/blob/main/LICENSE)
